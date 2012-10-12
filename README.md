@@ -9,10 +9,15 @@ The function can be used in two ways:
 1. **Random image**: `katify(Text %xpath)`, where `%xpath` is a path to the image you want to replace
 2. **Specified image**: `katify(Text %xpath, Text %num)`, where %xpath is a path to the image you want to replace and %num is a digit from 0-9.
 
-## Example
+## Example Use
     
     katify("//image")
     katify("//image", "6")
+
+## Example Site
+
+- [NYTimes](http://mmjlcatlin2258.nytimes.com.moovapp.com/)
+- [Reddit](http://mmjlcatlin2260.reddit.com.moovapp.com)
 
 ## Upcoming Features
 
