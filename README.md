@@ -16,8 +16,7 @@ The function can be used in two ways:
 
 ## Example Site
 
-- [NYTimes](http://mmjlcatlin2258.nytimes.com.moovapp.com/)
-- [Reddit](http://mmjlcatlin2260.reddit.com.moovapp.com)
+- [NYTimes](http://mmjlcatlin2499.nytimes.com.moovapp.com/)
 
 ## Upcoming Features
 
